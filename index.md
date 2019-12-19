@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Category 1 
 
 [Project X Web Page](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -14,7 +14,7 @@
 
 ---
 
-### Category Name 2
+### Category 2
 
 - [Project 1 Title](http://example.com/)
 
