@@ -4,11 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project X Web Page](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+[Project X PDF](/pdf/Project X.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
