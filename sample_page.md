@@ -72,5 +72,3 @@ if (isUviExceeds11){
 > 12a.1 System displays invalid Coordinates message   
 > 12a.2 user re-enters Latitude and Longitude   
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
