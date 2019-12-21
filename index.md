@@ -2,22 +2,19 @@
 
 ---
 
-### Category 1 
+### UCSC Extension Projects
 
 [Project X Web Page](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Project X PDF](/pdf/Project X.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category 2
+### Example Domain
 
 - [Project 1 Title](http://example.com/)
-
 
 ---
 
