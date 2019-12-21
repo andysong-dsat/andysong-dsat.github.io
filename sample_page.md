@@ -60,7 +60,6 @@ if (isUviExceeds11){
 > 4a.1 System displays invalid city message   
 > 4a.1.a User re-enter city name  
 > 4a.1.b User uses Coordinates method in "Coordinate & UVI" Frame  
-
 * Variations (alternative scenarios)
 > 9. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
 > 10. User clicks “Get UVI by Coordinates” button   
