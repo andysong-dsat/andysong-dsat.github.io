@@ -6,8 +6,9 @@
 
 [Project X (GetUVI) Web Page](/sample_page)
 
+[GetUVI](https://andysong-dsat.github.io//GetUVI/)
+
 ---
-[GetUVI](https:/andysong-dsat.github.io/GetUVI/)
 
 [Project X (GetUVI) PDF](/pdf/Project X.pdf)
 
