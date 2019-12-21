@@ -59,7 +59,7 @@ if (isUviExceeds11){
 > 4a.1.a User re-enter city name  
 > 4a.1.b User uses Coordinates method in "Coordinate & UVI" Frame  
 * Variations (alternative scenarios)
-> 1a. User keys-in a city name in combo box of "Latest Ultraviolet Index for" Frame   
+> 1a. User keys-in a city name in combo box of "Latest Ultraviolet Index for" Frame 
 > 9. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
 > 10. User clicks “Get UVI by Coordinates” button   
 > 11. UviTab sends Latitude and Longitude from "Latest Ultraviolet Index for" Frame to OpenWeatherMapUvi    
