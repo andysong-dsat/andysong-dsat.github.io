@@ -4,11 +4,11 @@
 
 ### UCSC Extension Projects
 
-[Project X Web Page](/sample_page)
+[Project X (GetUVI) Web Page](/sample_page)
 
 ---
 
-[Project X PDF](/pdf/Project X.pdf)
+[Project X (GetUVI) PDF](/pdf/Project X.pdf)
 
 ---
 
