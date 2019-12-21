@@ -61,12 +61,12 @@ if (isUviExceeds11){
 > 4a.1.a User re-enter city name  
 > 4a.1.b User uses Coordinates method in "Coordinate & UVI" Frame  
 * Variations (alternative scenarios)
-> 9. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
-> 10. User clicks “Get UVI by Coordinates” button   
-> 11. UviTab sends Latitude and Longitude from "Latest Ultraviolet Index for" Frame to OpenWeatherMapUvi    
-> 12. OpenWeatherMapUvi returns UVI data back to UviTab   
-> 13. UviTab displays UVI Data on "Coordinates & UVI" Frame   
-> 14. If Speaker is "ON", UVI Data will be announced    
+9. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
+10. User clicks “Get UVI by Coordinates” button   
+11. UviTab sends Latitude and Longitude from "Latest Ultraviolet Index for" Frame to OpenWeatherMapUvi    
+12. OpenWeatherMapUvi returns UVI data back to UviTab   
+13. UviTab displays UVI Data on "Coordinates & UVI" Frame   
+14. If Speaker is "ON", UVI Data will be announced    
 * Extensions (error scenarios)
 > 12a. OpenWeatherMapUvi returns Exception back to UviTab   
 > 12a.1 System displays invalid Coordinates message   
