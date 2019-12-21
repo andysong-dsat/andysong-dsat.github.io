@@ -54,23 +54,23 @@ if (isUviExceeds11){
 1. UviTab displays UVI Data on "Coordinates & UVI" Frame
 1. If Speaker is "ON", UVI Data will be announced
 * Variations (alternative scenarios)  
-1a. User keys-in a city name in combo box of "Latest Ultraviolet Index for" Frame  
+  1a. User keys-in a city name in combo box of "Latest Ultraviolet Index for" Frame  
 * Extensions (error scenarios)  
-4a. Coordinates returns Exception back to UviTab  
-4a.1 System displays invalid city message   
-4a.1.a User re-enter city name  
-4a.1.b User uses Coordinates method in "Coordinate & UVI" Frame  
+  4a. Coordinates returns Exception back to UviTab  
+  4a.1 System displays invalid city message   
+  4a.1.a User re-enter city name  
+  4a.1.b User uses Coordinates method in "Coordinate & UVI" Frame  
 * Variations (alternative scenarios)  
-9\. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
-10\. User clicks “Get UVI by Coordinates” button   
-11\. UviTab sends Latitude and Longitude from "Latest Ultraviolet Index for" Frame to OpenWeatherMapUvi    
-12\. OpenWeatherMapUvi returns UVI data back to UviTab   
-13\. UviTab displays UVI Data on "Coordinates & UVI" Frame   
-14\. If Speaker is "ON", UVI Data will be announced    
+  9\. User enters Latitude and Longitude in "Latest Ultraviolet Index for" Frame   
+  10\. User clicks “Get UVI by Coordinates” button   
+  11\. UviTab sends Latitude and Longitude from "Latest Ultraviolet Index for" Frame to OpenWeatherMapUvi    
+  12\. OpenWeatherMapUvi returns UVI data back to UviTab   
+  13\. UviTab displays UVI Data on "Coordinates & UVI" Frame   
+  14\. If Speaker is "ON", UVI Data will be announced    
 * Extensions (error scenarios)  
-12a. OpenWeatherMapUvi returns Exception back to UviTab   
-12a.1 System displays invalid Coordinates message   
-12a.2 user re-enters Latitude and Longitude   
+  12a. OpenWeatherMapUvi returns Exception back to UviTab   
+  12a.1 System displays invalid Coordinates message   
+  12a.2 user re-enters Latitude and Longitude   
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
