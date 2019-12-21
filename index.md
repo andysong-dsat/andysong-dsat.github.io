@@ -6,11 +6,9 @@
 
 [Project X (GetUVI) Web Page](/sample_page)
 
-[GetUVI](https://www.github.com/andysong-dsat/GetUVI/)
-
----
-
 [Project X (GetUVI) PDF](/pdf/Project X.pdf)
+
+   [GetUVI](https://www.github.com/andysong-dsat/GetUVI/)
 
 ---
 
