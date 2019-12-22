@@ -2,7 +2,7 @@
 
 ---
 
-### UCSC Extension Projects
+### School Project practice
 
 [Project X (GetUVI) Web Page](/sample_page)
 
